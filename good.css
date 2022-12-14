@@ -1,0 +1,51 @@
+ nav{
+ background-color:yellow
+    color: blue;
+}
+.menu:hover{
+    color: whitesmoke;
+    cursor: pointer;
+
+}
+.con:hover{
+    color: tomato;
+    cursor:wait;
+}
+body{
+    background-image: url(../ID-11332/coffee3.jpg);
+    background-size: cover;
+    background-position: center;
+    background-clip: border-box;
+}
+h1,h2
+{
+    color: yellow;
+}
+span, h1{
+    color: green;
+    text-transform: uppercase;
+}
+
+button:hover{
+    color: purple;
+    background-color: black;
+    background-size: 50;
+}
+ul{
+    display: flex;
+    gap: 5rem;
+}
+
+h2{ text-shadow:rgb(180, 180, 104);
+    text-transform: uppercase;
+    color: blueviolet;
+
+}
+.post > section, p{
+color: yellow;
+text-transform: uppercase;
+} 
+
+li{
+    list-style-type: none;
+}
